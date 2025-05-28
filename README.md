@@ -39,3 +39,5 @@ Each module is an independent project that includes a task statement, Python cod
   - Tkinter is a simple graphical shell for demo applications.  
 
 ---
+
+> **Each practical assignment contains detailed theoretical background, a Python implementation, and demonstration examples that showcase the methods in practice.**
